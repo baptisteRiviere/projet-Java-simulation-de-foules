@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Baptiste\Documents\ENSG\Projet_foule\.metadata\.plugins\org.eclipse.jdt.core
